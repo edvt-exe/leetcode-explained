@@ -12,3 +12,15 @@ I'm currently working my way through the Blind 75 list to prepare for technical 
 Right now, this repo just holds my raw code. In the near future, I plan to build a small personal website/blog where I'll take these solutions and explain my thought process, the approach I chose, and the time/space complexities for each problem.
 
 Thanks for stopping by!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
