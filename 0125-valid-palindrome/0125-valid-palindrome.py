@@ -9,10 +9,10 @@ class Solution:
         right = s_length - 1
 
         while left < right:
-            while left < right and not s[left].isalnum():
+            while left < right and not is_alphanumeric(s[left]):
                 left += 1
 
-            while left < right and not s[right].isalnum():
+            while left < right and not is_alphanumeric(s[right]):
                 right -= 1
 
             if s[left].lower() != s[right].lower():
