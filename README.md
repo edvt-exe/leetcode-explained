@@ -59,6 +59,7 @@ Thanks for stopping by!
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/edvt-exe/leetcode-explained/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
@@ -125,6 +126,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/edvt-exe/leetcode-explained/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Thanks for stopping by!
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -165,6 +168,7 @@ Thanks for stopping by!
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -173,6 +177,7 @@ Thanks for stopping by!
 | [0102-binary-tree-level-order-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -185,6 +190,7 @@ Thanks for stopping by!
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
