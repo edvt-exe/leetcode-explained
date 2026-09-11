@@ -42,6 +42,7 @@ Thanks for stopping by!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/edvt-exe/leetcode-explained/tree/master/0133-clone-graph) |
+| [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/edvt-exe/leetcode-explained/tree/master/0242-valid-anagram) |
@@ -107,6 +108,7 @@ Thanks for stopping by!
 | [0011-container-with-most-water](https://github.com/edvt-exe/leetcode-explained/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
@@ -153,6 +155,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/edvt-exe/leetcode-explained/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -288,4 +291,8 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/0005-longest-palindromic-substring) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
