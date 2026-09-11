@@ -30,6 +30,7 @@ Thanks for stopping by!
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/0347-top-k-frequent-elements) |
+| [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -181,6 +182,7 @@ Thanks for stopping by!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -192,6 +194,7 @@ Thanks for stopping by!
 | [0207-course-schedule](https://github.com/edvt-exe/leetcode-explained/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,4 +259,8 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/edvt-exe/leetcode-explained/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 <!---LeetCode Topics End-->
