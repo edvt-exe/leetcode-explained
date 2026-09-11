@@ -113,6 +113,7 @@ Thanks for stopping by!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Sliding Window
@@ -270,9 +271,14 @@ Thanks for stopping by!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
