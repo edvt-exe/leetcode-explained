@@ -22,6 +22,7 @@ Thanks for stopping by!
 | [0011-container-with-most-water](https://github.com/edvt-exe/leetcode-explained/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -303,4 +304,8 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
