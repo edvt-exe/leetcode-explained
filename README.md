@@ -76,6 +76,7 @@ Thanks for stopping by!
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -286,6 +287,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 ## Memoization
 |  |
