@@ -25,6 +25,7 @@ Thanks for stopping by!
 | [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/edvt-exe/leetcode-explained/tree/master/0054-spiral-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
@@ -282,6 +283,7 @@ Thanks for stopping by!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/edvt-exe/leetcode-explained/tree/master/0054-spiral-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 ## Math
 |  |
@@ -311,4 +313,8 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/edvt-exe/leetcode-explained/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
