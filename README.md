@@ -24,6 +24,7 @@ Thanks for stopping by!
 | [0033-search-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
@@ -75,6 +76,7 @@ Thanks for stopping by!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0191-number-of-1-bits) |
@@ -122,6 +124,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
