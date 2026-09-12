@@ -124,6 +124,7 @@ Thanks for stopping by!
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Thanks for stopping by!
 | [0190-reverse-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
