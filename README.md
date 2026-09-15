@@ -35,6 +35,7 @@ Thanks for stopping by!
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/edvt-exe/leetcode-explained/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
@@ -142,6 +143,7 @@ Thanks for stopping by!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/edvt-exe/leetcode-explained/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
