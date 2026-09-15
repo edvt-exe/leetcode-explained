@@ -33,6 +33,7 @@ Thanks for stopping by!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
@@ -49,6 +50,7 @@ Thanks for stopping by!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/edvt-exe/leetcode-explained/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
@@ -75,6 +77,7 @@ Thanks for stopping by!
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/edvt-exe/leetcode-explained/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/edvt-exe/leetcode-explained/tree/master/0242-valid-anagram) |
@@ -138,6 +141,7 @@ Thanks for stopping by!
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
 ## Sliding Window
 |  |
@@ -271,6 +275,7 @@ Thanks for stopping by!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/edvt-exe/leetcode-explained/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Data Stream
@@ -313,6 +318,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 ## Manacher
 |  |
 | ------- |
@@ -338,4 +344,8 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0062-unique-paths) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
