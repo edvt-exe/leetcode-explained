@@ -29,6 +29,7 @@ Thanks for stopping by!
 | [0055-jump-game](https://github.com/edvt-exe/leetcode-explained/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/edvt-exe/leetcode-explained/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
@@ -72,6 +73,7 @@ Thanks for stopping by!
 | [0005-longest-palindromic-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/edvt-exe/leetcode-explained/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -199,6 +201,7 @@ Thanks for stopping by!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -291,6 +294,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/edvt-exe/leetcode-explained/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 ## Math
 |  |
@@ -321,6 +325,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
