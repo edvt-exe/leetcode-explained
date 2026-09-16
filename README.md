@@ -44,6 +44,7 @@ Thanks for stopping by!
 | [0322-coin-change](https://github.com/edvt-exe/leetcode-explained/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ Thanks for stopping by!
 | [0242-valid-anagram](https://github.com/edvt-exe/leetcode-explained/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Thanks for stopping by!
 | ------- |
 | [0011-container-with-most-water](https://github.com/edvt-exe/leetcode-explained/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/edvt-exe/leetcode-explained/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Thanks for stopping by!
 | [0213-house-robber-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/edvt-exe/leetcode-explained/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
