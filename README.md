@@ -89,6 +89,7 @@ Thanks for stopping by!
 | [0242-valid-anagram](https://github.com/edvt-exe/leetcode-explained/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -134,6 +135,7 @@ Thanks for stopping by!
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
+| [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -156,6 +158,7 @@ Thanks for stopping by!
 | [0322-coin-change](https://github.com/edvt-exe/leetcode-explained/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
