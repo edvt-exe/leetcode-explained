@@ -52,6 +52,7 @@ Thanks for stopping by!
 | ------- |
 | [0001-two-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/edvt-exe/leetcode-explained/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/edvt-exe/leetcode-explained/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
@@ -81,6 +82,7 @@ Thanks for stopping by!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/edvt-exe/leetcode-explained/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/edvt-exe/leetcode-explained/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
@@ -331,6 +333,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/edvt-exe/leetcode-explained/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
