@@ -20,6 +20,7 @@ Thanks for stopping by!
 | ------- |
 | [0001-two-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/edvt-exe/leetcode-explained/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/edvt-exe/leetcode-explained/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
@@ -83,6 +84,7 @@ Thanks for stopping by!
 | [0003-longest-substring-without-repeating-characters](https://github.com/edvt-exe/leetcode-explained/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/edvt-exe/leetcode-explained/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/edvt-exe/leetcode-explained/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
@@ -302,6 +304,7 @@ Thanks for stopping by!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/edvt-exe/leetcode-explained/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/edvt-exe/leetcode-explained/tree/master/0211-design-add-and-search-words-data-structure) |
