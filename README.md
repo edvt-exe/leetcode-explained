@@ -206,6 +206,7 @@ Thanks for stopping by!
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/edvt-exe/leetcode-explained/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/edvt-exe/leetcode-explained/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -350,6 +351,7 @@ Thanks for stopping by!
 | [0013-roman-to-integer](https://github.com/edvt-exe/leetcode-explained/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/edvt-exe/leetcode-explained/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/edvt-exe/leetcode-explained/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
@@ -419,4 +421,8 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/edvt-exe/leetcode-explained/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
