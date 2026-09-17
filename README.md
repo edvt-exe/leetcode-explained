@@ -88,6 +88,7 @@ Thanks for stopping by!
 | [0013-roman-to-integer](https://github.com/edvt-exe/leetcode-explained/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/edvt-exe/leetcode-explained/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
@@ -142,6 +143,7 @@ Thanks for stopping by!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/edvt-exe/leetcode-explained/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
@@ -281,6 +283,7 @@ Thanks for stopping by!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -399,4 +402,16 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
