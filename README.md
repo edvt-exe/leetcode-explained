@@ -33,6 +33,7 @@ Thanks for stopping by!
 | [0055-jump-game](https://github.com/edvt-exe/leetcode-explained/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/edvt-exe/leetcode-explained/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/edvt-exe/leetcode-explained/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -348,6 +349,7 @@ Thanks for stopping by!
 | [0009-palindrome-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/edvt-exe/leetcode-explained/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/edvt-exe/leetcode-explained/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
