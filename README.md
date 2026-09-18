@@ -248,6 +248,7 @@ Thanks for stopping by!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -266,6 +267,7 @@ Thanks for stopping by!
 | [0104-maximum-depth-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/edvt-exe/leetcode-explained/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
@@ -285,6 +287,7 @@ Thanks for stopping by!
 | [0102-binary-tree-level-order-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/edvt-exe/leetcode-explained/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/edvt-exe/leetcode-explained/tree/master/0207-course-schedule) |
@@ -305,6 +308,7 @@ Thanks for stopping by!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
