@@ -39,6 +39,7 @@ Thanks for stopping by!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/edvt-exe/leetcode-explained/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
@@ -176,6 +177,7 @@ Thanks for stopping by!
 | [0062-unique-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/edvt-exe/leetcode-explained/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
