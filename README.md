@@ -27,6 +27,7 @@ Thanks for stopping by!
 | [0033-search-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/edvt-exe/leetcode-explained/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/edvt-exe/leetcode-explained/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/edvt-exe/leetcode-explained/tree/master/0054-spiral-matrix) |
@@ -169,6 +170,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/edvt-exe/leetcode-explained/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/edvt-exe/leetcode-explained/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -176,6 +178,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/edvt-exe/leetcode-explained/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0062-unique-paths) |
