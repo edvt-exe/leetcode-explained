@@ -391,6 +391,7 @@ Thanks for stopping by!
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -461,4 +462,8 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/edvt-exe/leetcode-explained/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
