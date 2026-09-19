@@ -193,6 +193,7 @@ Thanks for stopping by!
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
@@ -399,6 +400,7 @@ Thanks for stopping by!
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bit Manipulation
 |  |
@@ -475,4 +477,16 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
