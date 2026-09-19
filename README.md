@@ -55,6 +55,7 @@ Thanks for stopping by!
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Hash Table
 |  |
@@ -191,6 +192,7 @@ Thanks for stopping by!
 | [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
