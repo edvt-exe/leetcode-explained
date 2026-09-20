@@ -204,6 +204,7 @@ Thanks for stopping by!
 | [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -414,6 +415,7 @@ Thanks for stopping by!
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bit Manipulation
@@ -430,6 +432,7 @@ Thanks for stopping by!
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/1137-n-th-tribonacci-number) |
 ## Manacher
 |  |
 | ------- |
