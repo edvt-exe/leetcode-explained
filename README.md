@@ -117,6 +117,7 @@ Thanks for stopping by!
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1668-maximum-repeating-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/1668-maximum-repeating-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -443,6 +444,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/edvt-exe/leetcode-explained/tree/master/0054-spiral-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
