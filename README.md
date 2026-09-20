@@ -148,6 +148,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Union-Find
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Thanks for stopping by!
 | [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/1668-maximum-repeating-substring) |
 ## Sliding Window
 |  |
@@ -413,6 +415,7 @@ Thanks for stopping by!
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -453,6 +456,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Brute-Force Search
 |  |
 | ------- |
