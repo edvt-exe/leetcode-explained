@@ -60,6 +60,7 @@ Thanks for stopping by!
 | [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Thanks for stopping by!
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
@@ -429,6 +431,7 @@ Thanks for stopping by!
 | [1137-n-th-tribonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
