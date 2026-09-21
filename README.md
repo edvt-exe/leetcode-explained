@@ -197,6 +197,7 @@ Thanks for stopping by!
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/edvt-exe/leetcode-explained/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/edvt-exe/leetcode-explained/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/edvt-exe/leetcode-explained/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -276,6 +277,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0101-symmetric-tree) |
@@ -336,6 +338,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0101-symmetric-tree) |
@@ -366,6 +369,7 @@ Thanks for stopping by!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -424,6 +428,7 @@ Thanks for stopping by!
 | [0066-plus-one](https://github.com/edvt-exe/leetcode-explained/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/edvt-exe/leetcode-explained/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
