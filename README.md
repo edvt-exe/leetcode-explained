@@ -62,6 +62,7 @@ Thanks for stopping by!
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/3525-find-x-value-of-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Thanks for stopping by!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3903-smallest-stable-index-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
