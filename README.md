@@ -239,6 +239,7 @@ Thanks for stopping by!
 | [0094-binary-tree-inorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/edvt-exe/leetcode-explained/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
@@ -296,6 +297,7 @@ Thanks for stopping by!
 | [0112-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -317,6 +319,7 @@ Thanks for stopping by!
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/edvt-exe/leetcode-explained/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/edvt-exe/leetcode-explained/tree/master/0207-course-schedule) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/edvt-exe/leetcode-explained/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -360,6 +363,7 @@ Thanks for stopping by!
 | [0112-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
