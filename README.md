@@ -314,6 +314,7 @@ Thanks for stopping by!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/edvt-exe/leetcode-explained/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -346,6 +347,7 @@ Thanks for stopping by!
 | [0530-minimum-absolute-difference-in-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0563-binary-tree-tilt](https://github.com/edvt-exe/leetcode-explained/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -394,6 +396,7 @@ Thanks for stopping by!
 | [0501-find-mode-in-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/edvt-exe/leetcode-explained/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
 ## String Matching
@@ -431,6 +434,7 @@ Thanks for stopping by!
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0543-diameter-of-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/edvt-exe/leetcode-explained/tree/master/0563-binary-tree-tilt) |
 ## Trie
 |  |
 | ------- |
