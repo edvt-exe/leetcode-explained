@@ -59,6 +59,7 @@ Thanks for stopping by!
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/3525-find-x-value-of-array-ii) |
@@ -83,6 +84,7 @@ Thanks for stopping by!
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Thanks for stopping by!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
@@ -233,6 +236,7 @@ Thanks for stopping by!
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +268,7 @@ Thanks for stopping by!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/edvt-exe/leetcode-explained/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
 | ------- |
