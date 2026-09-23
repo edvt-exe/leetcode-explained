@@ -311,6 +311,7 @@ Thanks for stopping by!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/edvt-exe/leetcode-explained/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -340,6 +341,7 @@ Thanks for stopping by!
 | [0404-sum-of-left-leaves](https://github.com/edvt-exe/leetcode-explained/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -358,6 +360,7 @@ Thanks for stopping by!
 | [0322-coin-change](https://github.com/edvt-exe/leetcode-explained/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/edvt-exe/leetcode-explained/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,6 +387,7 @@ Thanks for stopping by!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/edvt-exe/leetcode-explained/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
 ## String Matching
@@ -406,6 +410,7 @@ Thanks for stopping by!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Lifting
 |  |
