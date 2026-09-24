@@ -248,6 +248,7 @@ Thanks for stopping by!
 | [0145-binary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/edvt-exe/leetcode-explained/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -319,6 +320,7 @@ Thanks for stopping by!
 | [0563-binary-tree-tilt](https://github.com/edvt-exe/leetcode-explained/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
@@ -354,6 +356,7 @@ Thanks for stopping by!
 | [0563-binary-tree-tilt](https://github.com/edvt-exe/leetcode-explained/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
