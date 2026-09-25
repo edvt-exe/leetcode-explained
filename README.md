@@ -83,6 +83,7 @@ Thanks for stopping by!
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -98,6 +99,7 @@ Thanks for stopping by!
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
+| [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## String
 |  |
@@ -124,6 +126,7 @@ Thanks for stopping by!
 | [0392-is-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
+| [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1668-maximum-repeating-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/1668-maximum-repeating-substring) |
@@ -249,6 +252,7 @@ Thanks for stopping by!
 | [0155-min-stack](https://github.com/edvt-exe/leetcode-explained/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -381,6 +385,7 @@ Thanks for stopping by!
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,6 +539,7 @@ Thanks for stopping by!
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0095-unique-binary-search-trees-ii) |
 | [0257-binary-tree-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
