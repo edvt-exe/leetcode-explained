@@ -52,6 +52,7 @@ Thanks for stopping by!
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/edvt-exe/leetcode-explained/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/edvt-exe/leetcode-explained/tree/master/0322-coin-change) |
@@ -232,6 +233,7 @@ Thanks for stopping by!
 | [0152-maximum-product-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/edvt-exe/leetcode-explained/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/edvt-exe/leetcode-explained/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/edvt-exe/leetcode-explained/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0392-is-subsequence) |
@@ -507,6 +509,7 @@ Thanks for stopping by!
 | [0063-unique-paths-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/edvt-exe/leetcode-explained/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
