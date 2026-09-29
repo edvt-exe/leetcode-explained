@@ -122,6 +122,7 @@ Thanks for stopping by!
 | [0091-decode-ways](https://github.com/edvt-exe/leetcode-explained/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/edvt-exe/leetcode-explained/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/edvt-exe/leetcode-explained/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -225,6 +226,7 @@ Thanks for stopping by!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/edvt-exe/leetcode-explained/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/edvt-exe/leetcode-explained/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/edvt-exe/leetcode-explained/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0213-house-robber-ii) |
@@ -556,6 +558,7 @@ Thanks for stopping by!
 | [0039-combination-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/edvt-exe/leetcode-explained/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0257-binary-tree-paths) |
 | [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 ## Simulation
