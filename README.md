@@ -61,6 +61,7 @@ Thanks for stopping by!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/3525-find-x-value-of-array-ii) |
@@ -235,6 +236,7 @@ Thanks for stopping by!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/1668-maximum-repeating-substring) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -267,6 +269,7 @@ Thanks for stopping by!
 | [0022-generate-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
 |  |
 | ------- |
@@ -496,6 +499,7 @@ Thanks for stopping by!
 | [0079-word-search](https://github.com/edvt-exe/leetcode-explained/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
