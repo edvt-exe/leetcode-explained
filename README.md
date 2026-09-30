@@ -138,6 +138,7 @@ Thanks for stopping by!
 | [0290-word-pattern](https://github.com/edvt-exe/leetcode-explained/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
@@ -204,6 +205,7 @@ Thanks for stopping by!
 | [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
 ## Greedy
