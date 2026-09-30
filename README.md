@@ -126,6 +126,7 @@ Thanks for stopping by!
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/edvt-exe/leetcode-explained/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
+| [0168-excel-sheet-column-title](https://github.com/edvt-exe/leetcode-explained/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/edvt-exe/leetcode-explained/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/edvt-exe/leetcode-explained/tree/master/0242-valid-anagram) |
@@ -525,6 +526,7 @@ Thanks for stopping by!
 | [0069-sqrtx](https://github.com/edvt-exe/leetcode-explained/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0096-unique-binary-search-trees) |
+| [0168-excel-sheet-column-title](https://github.com/edvt-exe/leetcode-explained/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
