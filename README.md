@@ -53,6 +53,7 @@ Thanks for stopping by!
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/edvt-exe/leetcode-explained/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
@@ -87,6 +88,7 @@ Thanks for stopping by!
 | [0205-isomorphic-strings](https://github.com/edvt-exe/leetcode-explained/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/edvt-exe/leetcode-explained/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/edvt-exe/leetcode-explained/tree/master/0290-word-pattern) |
@@ -273,6 +275,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/edvt-exe/leetcode-explained/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
