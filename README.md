@@ -354,6 +354,7 @@ Thanks for stopping by!
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/edvt-exe/leetcode-explained/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -566,6 +567,7 @@ Thanks for stopping by!
 | [0171-excel-sheet-column-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/edvt-exe/leetcode-explained/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
@@ -582,6 +584,7 @@ Thanks for stopping by!
 | [0191-number-of-1-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
