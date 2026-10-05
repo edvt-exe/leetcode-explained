@@ -149,6 +149,7 @@ Thanks for stopping by!
 | [0392-is-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/edvt-exe/leetcode-explained/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
+| [0856-score-of-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/edvt-exe/leetcode-explained/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
@@ -293,6 +294,7 @@ Thanks for stopping by!
 | [0155-min-stack](https://github.com/edvt-exe/leetcode-explained/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/edvt-exe/leetcode-explained/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/edvt-exe/leetcode-explained/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -303,6 +305,7 @@ Thanks for stopping by!
 | [0020-valid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/edvt-exe/leetcode-explained/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
