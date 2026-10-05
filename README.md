@@ -353,6 +353,7 @@ Thanks for stopping by!
 | [0021-merge-two-sorted-lists](https://github.com/edvt-exe/leetcode-explained/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/edvt-exe/leetcode-explained/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 ## Tree
 |  |
@@ -564,6 +565,7 @@ Thanks for stopping by!
 | [0168-excel-sheet-column-title](https://github.com/edvt-exe/leetcode-explained/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/edvt-exe/leetcode-explained/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
