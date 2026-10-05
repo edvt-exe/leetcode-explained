@@ -336,6 +336,7 @@ Thanks for stopping by!
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/edvt-exe/leetcode-explained/tree/master/0374-guess-number-higher-or-lower) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
@@ -686,4 +687,8 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/edvt-exe/leetcode-explained/tree/master/0169-majority-element) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/edvt-exe/leetcode-explained/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
