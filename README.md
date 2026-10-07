@@ -150,6 +150,7 @@ Thanks for stopping by!
 | [0257-binary-tree-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/edvt-exe/leetcode-explained/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0392-is-subsequence) |
@@ -443,6 +444,7 @@ Thanks for stopping by!
 | [0207-course-schedule](https://github.com/edvt-exe/leetcode-explained/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/edvt-exe/leetcode-explained/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/edvt-exe/leetcode-explained/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
@@ -612,6 +614,7 @@ Thanks for stopping by!
 | [0095-unique-binary-search-trees-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/edvt-exe/leetcode-explained/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/edvt-exe/leetcode-explained/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/edvt-exe/leetcode-explained/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
