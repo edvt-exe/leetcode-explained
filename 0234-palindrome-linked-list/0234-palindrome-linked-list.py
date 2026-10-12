@@ -17,23 +17,24 @@ class Solution:
             
             return prev
 
-        cop = ListNode(0)
-        tail = cop
-        curr = head
+        slow = head
+        fast = head
 
-        while curr:
-            tail.next = ListNode(curr.val)
-            tail = tail.next
-            curr = curr.next
-        
-        curr1 = head
-        curr2 = reverse_list(cop.next)
+        while fast and fast.next:
+            slow = slow.next
+            fast = fast.next.next
 
-        while curr1 and curr2:
-            if curr1.val != curr2.val:
+        if fast:
+            slow = slow.next
+
+        second_half = reverse_list(slow)
+        first_half = head
+
+        while second_half:
+            if first_half.val != second_half.val:
                 return False
 
-            curr1 = curr1.next
-            curr2 = curr2.next
+            first_half = first_half.next
+            second_half = second_half.next
 
         return True
