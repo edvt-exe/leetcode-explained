@@ -373,6 +373,7 @@ Thanks for stopping by!
 | [0021-merge-two-sorted-lists](https://github.com/edvt-exe/leetcode-explained/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/edvt-exe/leetcode-explained/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/edvt-exe/leetcode-explained/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
@@ -587,6 +588,7 @@ Thanks for stopping by!
 | [0168-excel-sheet-column-title](https://github.com/edvt-exe/leetcode-explained/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/edvt-exe/leetcode-explained/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/edvt-exe/leetcode-explained/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
@@ -604,6 +606,7 @@ Thanks for stopping by!
 | ------- |
 | [0190-reverse-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/edvt-exe/leetcode-explained/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
