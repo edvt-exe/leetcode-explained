@@ -91,6 +91,7 @@ Thanks for stopping by!
 | [0139-word-break](https://github.com/edvt-exe/leetcode-explained/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/edvt-exe/leetcode-explained/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/edvt-exe/leetcode-explained/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/edvt-exe/leetcode-explained/tree/master/0217-contains-duplicate) |
@@ -229,6 +230,7 @@ Thanks for stopping by!
 | [0125-valid-palindrome](https://github.com/edvt-exe/leetcode-explained/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/edvt-exe/leetcode-explained/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/0349-intersection-of-two-arrays) |
@@ -584,6 +586,7 @@ Thanks for stopping by!
 | [0096-unique-binary-search-trees](https://github.com/edvt-exe/leetcode-explained/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/edvt-exe/leetcode-explained/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/edvt-exe/leetcode-explained/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
@@ -622,6 +625,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/edvt-exe/leetcode-explained/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
 | ------- |
