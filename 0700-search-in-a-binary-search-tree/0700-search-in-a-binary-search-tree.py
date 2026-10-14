@@ -14,7 +14,10 @@ class Solution:
             if node.val == val:
                 return node
 
-            return dfs(node.left) or dfs(node.right)
+            if node.val < val:
+                return dfs(node.right)
+            else:
+                return dfs(node.left)
 
         return dfs(root)
 
