@@ -70,6 +70,7 @@ Thanks for stopping by!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/edvt-exe/leetcode-explained/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/edvt-exe/leetcode-explained/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -113,6 +114,7 @@ Thanks for stopping by!
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/edvt-exe/leetcode-explained/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/edvt-exe/leetcode-explained/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -435,6 +437,7 @@ Thanks for stopping by!
 | [0700-search-in-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/edvt-exe/leetcode-explained/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/edvt-exe/leetcode-explained/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/edvt-exe/leetcode-explained/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -536,6 +539,7 @@ Thanks for stopping by!
 | [0700-search-in-a-binary-search-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/edvt-exe/leetcode-explained/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/edvt-exe/leetcode-explained/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/edvt-exe/leetcode-explained/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/2331-evaluate-boolean-binary-tree) |
 ## String Matching
