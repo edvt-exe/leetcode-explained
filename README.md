@@ -193,6 +193,7 @@ Thanks for stopping by!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
