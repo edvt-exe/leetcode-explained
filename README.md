@@ -87,6 +87,7 @@ Thanks for stopping by!
 | [3727-maximum-alternating-sum-of-squares](https://github.com/edvt-exe/leetcode-explained/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3903-smallest-stable-index-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/edvt-exe/leetcode-explained/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
