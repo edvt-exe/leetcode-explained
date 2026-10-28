@@ -85,6 +85,7 @@ Thanks for stopping by!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/edvt-exe/leetcode-explained/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/edvt-exe/leetcode-explained/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/edvt-exe/leetcode-explained/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -323,6 +324,7 @@ Thanks for stopping by!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
 |  |
@@ -634,6 +636,7 @@ Thanks for stopping by!
 | [0221-maximal-square](https://github.com/edvt-exe/leetcode-explained/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -678,6 +681,7 @@ Thanks for stopping by!
 | [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/edvt-exe/leetcode-explained/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
 |  |
