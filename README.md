@@ -85,6 +85,7 @@ Thanks for stopping by!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/edvt-exe/leetcode-explained/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/edvt-exe/leetcode-explained/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3903-smallest-stable-index-i) |
@@ -196,6 +197,7 @@ Thanks for stopping by!
 | [2409-count-days-spent-together](https://github.com/edvt-exe/leetcode-explained/tree/master/2409-count-days-spent-together) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Divide and Conquer
 |  |
@@ -208,6 +210,7 @@ Thanks for stopping by!
 | [0191-number-of-1-bits](https://github.com/edvt-exe/leetcode-explained/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -460,6 +463,7 @@ Thanks for stopping by!
 | [2196-create-binary-tree-from-descriptions](https://github.com/edvt-exe/leetcode-explained/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/edvt-exe/leetcode-explained/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/2331-evaluate-boolean-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -499,6 +503,7 @@ Thanks for stopping by!
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/edvt-exe/leetcode-explained/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/2331-evaluate-boolean-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -681,6 +686,7 @@ Thanks for stopping by!
 | [0342-power-of-four](https://github.com/edvt-exe/leetcode-explained/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/edvt-exe/leetcode-explained/tree/master/0371-sum-of-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/edvt-exe/leetcode-explained/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Memoization
@@ -787,6 +793,7 @@ Thanks for stopping by!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -805,6 +812,7 @@ Thanks for stopping by!
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
