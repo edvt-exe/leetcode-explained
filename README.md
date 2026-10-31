@@ -84,6 +84,7 @@ Thanks for stopping by!
 | [3525-find-x-value-of-array-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/edvt-exe/leetcode-explained/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/edvt-exe/leetcode-explained/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/edvt-exe/leetcode-explained/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -327,6 +328,7 @@ Thanks for stopping by!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/edvt-exe/leetcode-explained/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Sliding Window
@@ -641,6 +643,7 @@ Thanks for stopping by!
 | [0221-maximal-square](https://github.com/edvt-exe/leetcode-explained/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/edvt-exe/leetcode-explained/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
