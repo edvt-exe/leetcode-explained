@@ -69,6 +69,7 @@ Thanks for stopping by!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -149,6 +150,7 @@ Thanks for stopping by!
 | [0435-non-overlapping-intervals](https://github.com/edvt-exe/leetcode-explained/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/edvt-exe/leetcode-explained/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/edvt-exe/leetcode-explained/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -275,6 +277,7 @@ Thanks for stopping by!
 | [0350-intersection-of-two-arrays-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/edvt-exe/leetcode-explained/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -405,6 +408,7 @@ Thanks for stopping by!
 | [0350-intersection-of-two-arrays-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/edvt-exe/leetcode-explained/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/edvt-exe/leetcode-explained/tree/master/0374-guess-number-higher-or-lower) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/edvt-exe/leetcode-explained/tree/master/2089-find-target-indices-after-sorting-array) |
