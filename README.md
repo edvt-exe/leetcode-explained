@@ -69,6 +69,7 @@ Thanks for stopping by!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
+| [1267-count-servers-that-communicate](https://github.com/edvt-exe/leetcode-explained/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -241,6 +242,7 @@ Thanks for stopping by!
 | ------- |
 | [0169-majority-element](https://github.com/edvt-exe/leetcode-explained/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/edvt-exe/leetcode-explained/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/edvt-exe/leetcode-explained/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Thanks for stopping by!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/edvt-exe/leetcode-explained/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
+| [1267-count-servers-that-communicate](https://github.com/edvt-exe/leetcode-explained/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Two Pointers
 |  |
@@ -523,6 +526,7 @@ Thanks for stopping by!
 | [0637-average-of-levels-in-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/edvt-exe/leetcode-explained/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1267-count-servers-that-communicate](https://github.com/edvt-exe/leetcode-explained/tree/master/1267-count-servers-that-communicate) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -549,6 +553,7 @@ Thanks for stopping by!
 | [0637-average-of-levels-in-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/edvt-exe/leetcode-explained/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/edvt-exe/leetcode-explained/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -661,6 +666,7 @@ Thanks for stopping by!
 | [0200-number-of-islands](https://github.com/edvt-exe/leetcode-explained/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/edvt-exe/leetcode-explained/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/edvt-exe/leetcode-explained/tree/master/0417-pacific-atlantic-water-flow) |
+| [1267-count-servers-that-communicate](https://github.com/edvt-exe/leetcode-explained/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/edvt-exe/leetcode-explained/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/edvt-exe/leetcode-explained/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/edvt-exe/leetcode-explained/tree/master/3882-minimum-xor-path-in-a-grid) |
