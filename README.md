@@ -86,6 +86,7 @@ Thanks for stopping by!
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/edvt-exe/leetcode-explained/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/edvt-exe/leetcode-explained/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/edvt-exe/leetcode-explained/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/edvt-exe/leetcode-explained/tree/master/3525-find-x-value-of-array-ii) |
