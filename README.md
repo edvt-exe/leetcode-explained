@@ -72,6 +72,7 @@ Thanks for stopping by!
 | [1267-count-servers-that-communicate](https://github.com/edvt-exe/leetcode-explained/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/edvt-exe/leetcode-explained/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -255,6 +256,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/edvt-exe/leetcode-explained/tree/master/3364-minimum-positive-sum-subarray) |
@@ -346,6 +348,7 @@ Thanks for stopping by!
 | [1137-n-th-tribonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/edvt-exe/leetcode-explained/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/edvt-exe/leetcode-explained/tree/master/1668-maximum-repeating-substring) |
@@ -707,6 +710,7 @@ Thanks for stopping by!
 | [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/edvt-exe/leetcode-explained/tree/master/2409-count-days-spent-together) |
