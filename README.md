@@ -70,6 +70,7 @@ Thanks for stopping by!
 | [0643-maximum-average-subarray-i](https://github.com/edvt-exe/leetcode-explained/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/edvt-exe/leetcode-explained/tree/master/0746-min-cost-climbing-stairs) |
 | [1267-count-servers-that-communicate](https://github.com/edvt-exe/leetcode-explained/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/edvt-exe/leetcode-explained/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/edvt-exe/leetcode-explained/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -267,6 +268,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/edvt-exe/leetcode-explained/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/edvt-exe/leetcode-explained/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/edvt-exe/leetcode-explained/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/edvt-exe/leetcode-explained/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -432,6 +434,7 @@ Thanks for stopping by!
 | [0225-implement-stack-using-queues](https://github.com/edvt-exe/leetcode-explained/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/edvt-exe/leetcode-explained/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/edvt-exe/leetcode-explained/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -674,6 +677,7 @@ Thanks for stopping by!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/edvt-exe/leetcode-explained/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/edvt-exe/leetcode-explained/tree/master/1352-product-of-the-last-k-numbers) |
 ## Graph Theory
 |  |
 | ------- |
@@ -726,6 +730,7 @@ Thanks for stopping by!
 | [0509-fibonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/edvt-exe/leetcode-explained/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/edvt-exe/leetcode-explained/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/edvt-exe/leetcode-explained/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/edvt-exe/leetcode-explained/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/edvt-exe/leetcode-explained/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/edvt-exe/leetcode-explained/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
